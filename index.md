@@ -11,3 +11,4 @@ Content 1
 
 Subcontent 2
 
+[A link](otherpage.html)
