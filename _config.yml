@@ -1,3 +1,4 @@
+markdown: kramdown
 pygments: true
 server: true
 project_title: LoCO.js

@@ -1,3 +1,4 @@
+
 /*
 Leap Day for Github Pages
 by Matt Graham
@@ -725,9 +726,9 @@ header p {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #88e7ff/*#ffe788*/), color-stop(100%, #38ceff/*#ffce38*/));
   background: -webkit-linear-gradient(#88e7ff/*#ffe788*/, #38ceff/*#ffce38*/);
   background: -moz-linear-gradient(#88e7ff, #38ceff);
-  background: -o-linear-gradient((#88e7ff, #38ceff);
-  background: -ms-linear-gradient((#88e7ff, #38ceff);
-  background: linear-gradient((#88e7ff, #38ceff);
+  background: -o-linear-gradient(#88e7ff, #38ceff);
+  background: -ms-linear-gradient(#88e7ff, #38ceff);
+  background: linear-gradient(#88e7ff, #38ceff);
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
@@ -1020,3 +1021,4 @@ footer {
     width: auto;
   }
 }
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
